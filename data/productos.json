@@ -1,0 +1,65 @@
+[
+	{
+		"id": 1,
+		"marca": "Husky siberiano",
+		"imagen": "img/husky-siberiano.png",
+		"precio": "2000",
+		"detalles": ["todos los tonos", "Edad 3 meses", "con pedigri"]
+	},
+	{
+		"id": 2,
+		"marca": "Pastor Aleman",
+		"imagen": "img/pastor.jpg",
+		"precio": "1000",
+		"detalles": ["manto negro", "EDADA 3 MESES", " PEDIGRI"]
+	},
+	{
+		"id": 3,
+		"marca": "DALMATA",
+		"imagen": "img/bebe.jpg",
+		"precio": "1800",
+		"detalles": ["POCAS MANCHAS", "EDAD 2 MESES", " PEDIGRI"]
+	},
+	{
+		"id": 4,
+		"marca": "PASTOR BELGA",
+		"imagen": "img/pastor2.jpg",
+		"precio": "1200",
+		"detalles": ["MANTO CLARO", "EDAD 3 MESES", " PEDIGRI"]
+	},
+	{
+		"id": 5,
+		"marca": "CHIWAWA",
+		"imagen": "img/chi2.jpg",
+		"precio": "1500",
+		"detalles": ["COLOR CAFE Y BLANCO", "EDAD 2 MESES", "PEDIGRI"]
+	},
+	{
+		"id": 6,
+		"marca": "SAMOYEDO",
+		"imagen": "img/samo.jpg",
+		"precio": "1200",
+		"detalles": ["COLOR BLANCO", "EDADA 3 MESES", "PEDIGRI"]
+	},
+	{
+		"id": 7,
+		"marca": "SALCHICHA",
+		"imagen": "img/sal.jpg",
+		"precio": "1500",
+		"detalles": ["COLOR NEGRO Y BLANCO", "EDAD 2 MESES", "PEDIGRI"]
+	},
+	{
+		"id": 8,
+		"marca": "PITBULL",
+		"imagen": "img/pit2.jpg",
+		"precio": "1600",
+		"detalles": ["COLOR PLOMO", "EDAD 2 MESES", "PEDIGRI"]
+	},
+	{
+		"id": 9,
+		"marca": "LABRADOR",
+		"imagen": "img/lab.jpg",
+		"precio": "1100",
+		"detalles": ["COLOR CREMA", "EDAD 3 MESES", "PEDIGRI"]
+	}
+]
